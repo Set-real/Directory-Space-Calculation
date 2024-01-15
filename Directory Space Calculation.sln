@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory Space Calculation", "Directory Space Calculation.csproj", "{A1778C6A-CD78-4867-B041-151B5127807A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1778C6A-CD78-4867-B041-151B5127807A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1778C6A-CD78-4867-B041-151B5127807A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1778C6A-CD78-4867-B041-151B5127807A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1778C6A-CD78-4867-B041-151B5127807A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14257A38-C0B5-4330-A7D0-09133E1A531C}
+	EndGlobalSection
+EndGlobal
